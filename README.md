@@ -25,17 +25,6 @@ Crisp is a fast and minimal Android news application built using **Kotlin**, des
 
 ---
 
-## 📂 Project Structure
-
-
-Crisp/
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/yourpackage/crisp/
-│ │ │ ├── res/
-│ │ │ └── AndroidManifest.xml
-│ └── build.gradle
 
 
 ---
